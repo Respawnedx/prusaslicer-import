@@ -11,4 +11,4 @@ Dette script hjælper med at automatisere processen med at importere konfigurati
 
 ## Forudsætninger
 
-For at bruge dette script skal du have PrusaSlicer installeret på din computer. Scriptet er testet med PrusaSlicer version 2.7.1.
+For at bruge dette script skal du have PrusaSlicer installeret på din computer. Scriptet er testet med PrusaSlicer version `2.7.1`
