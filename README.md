@@ -14,6 +14,7 @@ Dette script hjælper med at automatisere processen med at importere konfigurati
 For at bruge dette script skal du have PrusaSlicer installeret på din computer. Scriptet er testet med PrusaSlicer version `2.7.1`
 
 ## Ekempel
+# [Download som ZIP](https://github.com/Respawnedx/prusaslicer-import/archive/refs/heads/main.zip)
   - Åben mappen prusaslicer-import-main
     - Køre PrusaSlicer profil.exe
 
