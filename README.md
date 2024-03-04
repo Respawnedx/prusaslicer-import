@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="CfNWGzEswzYBWudsl7xe6DUgxJWWBGZCLiNHrGI1uVU" />
+
 # PrusaSlicer Konfigurationshåndteringsscript
 
 Dette script hjælper med at automatisere processen med at importere konfigurationsfiler til PrusaSlicer, hvilket gør det nemmere for brugere at konfigurere PrusaSlicer med foruddefinerede profiler.
