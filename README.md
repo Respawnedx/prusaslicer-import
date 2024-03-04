@@ -15,7 +15,6 @@ Dette script hjælper med at automatisere processen med at importere konfigurati
 For at bruge dette script skal du have PrusaSlicer installeret på din computer. Scriptet er testet med PrusaSlicer version `2.7.1`
 
 ## Ekempel
-[Download som ZIP](https://github.com/Respawnedx/prusaslicer-import/archive/refs/heads/main.zip)
 
   - Udpak [prusaslicer-import-main]
     - Åben mappen prusaslicer-import-main
@@ -25,11 +24,6 @@ For at bruge dette script skal du have PrusaSlicer installeret på din computer.
 
   - Tryk på flere oplysninger
 
-![image](https://github.com/Respawnedx/prusaslicer-import/assets/96349345/5434a46e-29ad-4d1e-93cb-f8848b7c6d08)
-
-  - Tryk på køre alligevel
-
-![image](https://github.com/Respawnedx/prusaslicer-import/assets/96349345/14639a44-4b54-4569-b4b2-0b1c40e3705e)
 
   - Åben filen med `.ini`
     - Efter installation skal PrusaSlicer genstartes - nu vil AAMS profilerne blive vist
