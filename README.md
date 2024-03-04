@@ -23,8 +23,10 @@ For at bruge dette script skal du have PrusaSlicer installeret på din computer.
 <img width="512" alt="image" src="https://github.com/Respawnedx/prusaslicer-import/assets/96349345/68427b14-c2d3-4966-a2e4-cf4f174c1481">
 
 
+
   - Åben filen med `.ini`
     - Efter installation skal PrusaSlicer genstartes - nu vil AAMS profilerne blive vist
+  
 
 ![image](https://github.com/Respawnedx/prusaslicer-import/assets/96349345/f6a753fb-3bc2-4deb-894a-2ebab8af666e)
 
