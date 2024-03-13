@@ -21,9 +21,12 @@ To use this script, you need to have PrusaSlicer installed on your computer. The
 
 
 - Open the `.ini` file.
-- After installation, PrusaSlicer needs to be restarted - now the AAMS profiles will be displayed.
 
   
 ![image](https://github.com/Respawnedx/prusaslicer-import/assets/96349345/f6a753fb-3bc2-4deb-894a-2ebab8af666e)
 
+
+- After installation, PrusaSlicer needs to be restarted - now the AAMS profiles will be displayed.
+
+![image](https://github.com/Respawnedx/prusaslicer-import/assets/96349345/7eb28569-efb3-4d33-a56f-6d413786769e)
 
