@@ -15,7 +15,7 @@ To use this script, you need to have PrusaSlicer installed on your computer. The
 - Open the prusaslicer-import-main folder.
 - Run PrusaSlicer profile.exe.
 - Example Image
-- 
+
 <img width="512" alt="image" src="https://github.com/Respawnedx/prusaslicer-import/assets/96349345/68427b14-c2d3-4966-a2e4-cf4f174c1481">
 
 - Open the .ini file.
