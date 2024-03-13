@@ -1,16 +1,16 @@
-#PrusaSlicer Configuration Management Script
+# PrusaSlicer Configuration Management Script
 This script automates the process of importing configuration files into PrusaSlicer, making it easier for users to set up PrusaSlicer with predefined profiles.
 
-##Features
+## Features
 Imports .ini configuration files into PrusaSlicer.
 Supports Windows, macOS, and Linux.
 Offers a simple graphical user interface for selecting configuration files.
 Allows for restarting PrusaSlicer after importing configurations.
 
-##Prerequisites
+## Prerequisites
 To use this script, you need to have PrusaSlicer installed on your computer. The script has been tested with PrusaSlicer version 2.7.1.
 
-##Example
+## Example
 - Extract [prusaslicer-import-main].
 - Open the prusaslicer-import-main folder.
 - Run PrusaSlicer profile.exe.
