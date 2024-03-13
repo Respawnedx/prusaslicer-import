@@ -10,7 +10,7 @@ Allows for restarting PrusaSlicer after importing configurations.
 ## Prerequisites
 To use this script, you need to have PrusaSlicer installed on your computer. The script has been tested with PrusaSlicer version `2.7.2`
 
-## Example
+## instruction
 - Extract [prusaslicer-import-main].
 - Open the prusaslicer-import-main folder.
 - Run PrusaSlicer profile.exe.
